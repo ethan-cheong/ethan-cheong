@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ethan-cheong/ethan-cheong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm a BSc Economics student at the London School of Economics. Feel feel to reach out to me to chat about data science, economics or the horrors of online university
 
 - 🔭 I’m currently working on
