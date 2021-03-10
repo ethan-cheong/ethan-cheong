@@ -6,5 +6,4 @@ I'm a BSc Economics student at the London School of Economics. Feel feel to reac
     - MacroModels - Visualizations of models used in EC102, with Dash and Python
     - A project with a RoboAdvisor startup on prediction of cryptoasset prices
 - 🌱 I’m currently learning
-    - Models for Causal Inference
-    - GANs, LSTMs and Reinforcement Learning
+    - Tensorflow
